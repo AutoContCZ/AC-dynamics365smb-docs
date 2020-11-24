@@ -1,6 +1,6 @@
 ---
-title: Czech Local Functionality | Microsoft Docs
-description: The following topics describe the local functionality in the Czech version of Business Central.
+title: Czech Local Functionality - Advances features of physical inventory | Microsoft Docs
+description: Companies need to distinguish the posting of inventory movements of the same goods so they require line-break of physical inventory Journal line.
 author: v-makune
 
 ms-service: dynamics365-business-central
@@ -12,23 +12,12 @@ ms.author: v-makune
 ---
 
 
-# Advanced features of the physical inventory
+# Advanced Features of the Physical Inventory
+To comply with the legislation, companies require differentiation of accounting of deficits and surpluses. Thanks to the setting of default Whse. Net Change Template for these inventory movements in the Inventory Setup, the user can easily change Gen. Business Posting Group depending on the type of inventory movements.
 
-Odstavec textu se základními informacemi. Na co slouží, co to umí.
+Companies need to distinguish the posting of inventory movements of the same goods so they require line-break of physical inventory Journal line. Such accounting is required for legal reasons. For example, they need to have a different account for deficits in the limit, and another account for deficits over the limit.
 
-## Použití (procesy použití)
+## See also
 
-Základní použití první funkce. (popis)
-
-(příklad)
-1. Pomocí vyhledávací funkce **Řekněte mi, co chcete udělat (Alt + Q)** vyhledejte **Nastavení kategorií**.
-2. Na kartě Nastavení v záložce Obecné je potřeba vybrat **Vynucení Kategorií** a **Výchozí prioritu**.
-3. V záložce Číslování nastavit **Číselnou řadu** pro požadavky.
-4. Potvrďte pomocí OK.
-
-Pokud téma obsahuje několik procesů nebo funkcí, kroky opakujte.
-
-## Viz Také
-
-[České lokální funkcionality](czech-local-functionality.md)  
+[Czech local functionality](czech-local-functionality.md)  
 [Finance](../../finance.md)
