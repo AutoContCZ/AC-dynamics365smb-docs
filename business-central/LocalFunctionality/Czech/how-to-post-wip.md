@@ -25,7 +25,7 @@ This new posting scheme is used in the following transactions:
 - Posting the costs of capacities in the output journal
 - Finishing orders and automatic production reporting
 
-## Viz Také
+## See also
 
 [Czech Local Functionality](czech-local-functionality.md)
 [Finance](finance.md)

@@ -20,7 +20,7 @@ As one of the most extensively used features for analysis and reporting, Eastern
 - Formulas drill-down – This improvement allows users to drill down on the results of formulas. Drill-down is now accessible for Totalling type formulas. Drilling down on the result of the formula shows the user a new page containing the list of elements used to calculate the results and their description.
 - Additional data sources – Apart from being able to perform analysis on GL entries, the user can perform analysis on VAT, customer, vendor, and value entries.
 
-## Viz Také
+## See also
 
 [Czech Local Functionality](czech-local-functionality.md)
 [Finance](finance.md)

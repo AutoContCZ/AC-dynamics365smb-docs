@@ -22,7 +22,7 @@ The purpose of the feature is:
 - To allow the accounting manager to enforce corrective posting of canceling in fixed assets  
 - To allow the user to enforce corrective posting with one click (in G/L, inventory, and job postings)  
 
-## Viz Také
+## See also
 
 [Czech Local Functionality](czech-local-functionality.md)
 [Finance](finance.md)
