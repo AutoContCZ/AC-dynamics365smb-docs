@@ -11,21 +11,20 @@ ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
 
-# WIP Extended Posting
+# Rozšířené účtování nedokončené výroby  
 
-The Czech legal Work in Progress (WIP) posting scheme includes the following new general ledger accounts:
-- Consumption Account
-- Change in Inventory of WIP Account
-- Change in Inventory of Product Account  
+Česká legislativa používá při účtování nedokončené výroby následující nové finanční účty:
+- Účet spotřeby
+- Změna stavu nedokončené výroby
+- Změna stavu výrobků
 
-This feature allows you to correctly perform Czech WIP and production posting. It is therefore possible to set up a combination of location and inventory posting group for the accounts Consumption, Work in Progress, Change of Semi-finished Product, Change of Product.
+Tato funkce umožňuje správně provádět účtování nedokončené výroby a výroby dle českých účetních postupů. Díky ní je možno nastavit pro kombinace skladové lokace a účto skupiny zboží finanční účty pro spotřebu, změnu stavu nedokončené výroby i změnu stavu polotovarů a výrobků.
+Nový systém účtování je používán u následujících transakcí:
+- Účtování spotřeby v denících spotřeby 
+- Účtování nákladů výrobních operací ve výstupních denících
+- Dokončování výrobních zakázek
 
-This new posting scheme is used in the following transactions:
-- Consumption posting in the consumption journal
-- Posting the costs of capacities in the output journal
-- Finishing orders and automatic production reporting
-
-## See also
+## Viz Také
 
 [Czech Local Functionality](czech-local-functionality.md)
 [Finance](finance.md)
