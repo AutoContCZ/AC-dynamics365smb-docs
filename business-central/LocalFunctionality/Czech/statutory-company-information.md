@@ -1,14 +1,14 @@
 ---
-title: Czech Local Functionality | Microsoft Docs
-description: The following topics describe the local functionality in the Czech version of Business Central.
+title: Czech Local Functionality - Statutory Company Information
+description: This feature allows users to define company officials and designate them as General Manager, Accounting, and Finance Managers for usage in internal and external documents.
 author: v-makune
 
 ms-service: dynamics365-business-central
-ms.topic: conceptual
+ms.topic: article
 ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance,  Cash, EET, Cash Desk
-ms.date: 12/30/2019
-ms.reviewer: v-makune
-ms.author: v-makune
+ms.date: 12/01/2020
+ms.reviewer: v-pejano
+ms.author: v-pejano
 ---
 
 
