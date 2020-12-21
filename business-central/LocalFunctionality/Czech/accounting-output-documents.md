@@ -1,20 +1,21 @@
 ---
-title: Czech Local Functionality | Microsoft Docs
-description: The following topics describe the local functionality in the Czech version of Business Central.
-author: v-makune
+title: Czech Local Functionality - Accounting output documents
+description: The following topics describe Accounting output documents - the local functionality in the Czech version of Business Central. 
+author: v-pejano
 
 ms-service: dynamics365-business-central
 ms.topic: conceptual
-ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance,  Cash, EET, Cash Desk
-ms.date: 12/30/2019
-ms.reviewer: v-makune
-ms.author: v-makune
+ms.search.keywords: Czech, Finance, Localization, CZ
+ms.date: 12/01/2020
+ms.reviewer: v-pejano
+ms.author: v-pejano
 ---
 
 
-# Accounting Output Documents  
+# Accounting Output Documents
 
 In order to comply with the legislation, reporting features, and local reporting practices of Czech companies, this feature provides the following reports:
+
 - General Journal
 - General Ledger
 - Accounting Sheets
@@ -32,5 +33,6 @@ In order to comply with the legislation, reporting features, and local reporting
 
 ## See Also
 
-[Czech Local Functionality](czech-local-functionality.md)  
+[Core Localization Pack for Czech](ui-extensions-core-localization-pack-cz.md)
+[Czech local functionality](czech-local-functionality.md)  
 [Finance](../../finance.md)
