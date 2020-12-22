@@ -1,14 +1,14 @@
 ---
-title: Czech Local Functionality | Microsoft Docs
-description: The following topics describe the local functionality in the Czech version of Business Central.
+title: Czech Local Functionality - Statutory Statements
+description: This feature provides the reports - Balance Sheet, Income Statement.
 author: v-makune
 
 ms-service: dynamics365-business-central
-ms.topic: conceptual
-ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance,  Cash, EET, Cash Desk
-ms.date: 12/30/2019
-ms.reviewer: v-makune
-ms.author: v-makune
+ms.topic: article
+ms.search.keywords: Czech, Finance, Localization, CZ
+ms.date: 12/01/2020
+ms.reviewer: v-pejano
+ms.author: v-pejano
 ---
 
 
@@ -17,8 +17,8 @@ ms.author: v-makune
 Companies must create financial statements according to the Accounting Law 563/1991. They must create the balance sheet and the profit and loss statement.
 This feature provides the following reports:
 
-- Balance Sheet
-- Income Statement
+- **Balance Sheet**
+- **Income Statement**
 
 These reports use the Account Schedule feature with the statement structure defined.
 
@@ -36,6 +36,7 @@ For the reasons above, this feature provides the new setup of Excel templates an
 
 ## See Also
 
+[Core Localization Pack for Czech](ui-extensions-core-localization-pack-cz.md)  
 [Czech Local Functionality](czech-local-functionality.md)  
-[Statutory company information](statutory-company-information.md)
-[Finance](../../finance.md)
+[Statutory company information](statutory-company-information.md)  
+[Finance](../../finance.md)  
