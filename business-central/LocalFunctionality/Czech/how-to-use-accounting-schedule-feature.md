@@ -1,5 +1,5 @@
 ---
-title: Czech Local Functionality - accounting schedule feature | Microsoft Docs
+title: Czech Local Functionality - accounting schedule feature
 description: Improvements of the standard Account Schedules feature (common list of expressions, saving results, formulas drill-down, additional data sources).
 author: v-pejano
 
@@ -23,4 +23,4 @@ As one of the most extensively used features for analysis and reporting, Eastern
 ## See also
 
 [Czech Local Functionality](czech-local-functionality.md)
-[Finance](finance.md)
+[Finance](../../finance.md)
