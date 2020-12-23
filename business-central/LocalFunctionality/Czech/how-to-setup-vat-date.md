@@ -1,14 +1,14 @@
 ---
-title: Czech Local Functionality | Microsoft Docs
-description: The following topics describe the local functionality in the Czech version of Business Central.
-author: v-makune
+title: Czech Local Functionality - Setup VAT date
+description: This section describes Czech local functionality - VAT Date and Setup of the VAT Date Feature.
+author: v-pejano
 
 ms-service: dynamics365-business-central
 ms.topic: conceptual
-ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance,  Cash, EET, Cash Desk
-ms.date: 12/30/2019
-ms.reviewer: v-makune
-ms.author: v-makune
+ms.search.keywords: Czech, Finance, VAT, Localization, CZ
+ms.date: 12/01/2020
+ms.reviewer: v-pejano
+ms.author: v-pejano
 ---
 
 
@@ -36,6 +36,7 @@ The system filters VAT entries by the **VAT Date** field (instead of **Posting D
 
 ## See Also
 
+[Core Localization Pack for Czech](ui-extensions-core-localization-pack-cz.md)  
 [VAT control report](how-to-create-vat-control-report.md)  
 [VAT statement](vat-statement.md)
 [Finance](../../finance.md)
