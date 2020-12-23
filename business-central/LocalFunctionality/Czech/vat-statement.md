@@ -1,14 +1,14 @@
 ---
-title: Czech Local Functionality | Microsoft Docs
-description: The following topics describe the local functionality in the Czech version of Business Central.
+title: Czech Local Functionality - VAT statement
+description: This functionality describes improvements that the VAT Statement report contains.
 author: v-makune
 
 ms-service: dynamics365-business-central
 ms.topic: conceptual
-ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance,  Cash, EET, Cash Desk
-ms.date: 12/30/2019
-ms.reviewer: v-makune
-ms.author: v-makune
+ms.search.keywords: Czech, Finance, VAT, Localization, CZ
+ms.date: 12/01/2020
+ms.reviewer: v-pejano
+ms.author: v-pejano
 ---
 
 
@@ -30,7 +30,8 @@ The VAT Statement report contains many improvements which enable the user to:
 
 ## See Also
 
+[Core Localization Pack for Czech](ui-extensions-core-localization-pack-cz.md)  
 [Czech local functionality](czech-local-functionality.md)  
 [VAT Control Report](how-to-create-vat-control-report.md)  
-[VAT Date](how-to-setup-vat-date.md)
-[Finance](../../finance.md)
+[VAT Date](how-to-setup-vat-date.md)  
+[Finance](../../finance.md)  
