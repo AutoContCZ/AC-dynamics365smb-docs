@@ -1,14 +1,14 @@
 ---
-title: Czech Local Functionality | Microsoft Docs
-description: The following topics describe the local functionality in the Czech version of Business Central.
+title: Czech Local Functionality - Supplementary VAT Statement
+description: This feature allows calculation and printing VAT statement for different VAT statements posted and submitted in one VAT period.
 author: v-makune
 
 ms-service: dynamics365-business-central
-ms.topic: conceptual
-ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance,  Cash, EET, Cash Desk
-ms.date: 12/30/2019
-ms.reviewer: v-makune
-ms.author: v-makune
+ms.topic: article
+ms.search.keywords: Czech, Finance, VAT, Localization, CZ
+ms.date: 12/01/2020
+ms.reviewer: v-pejano
+ms.author: v-pejano
 ---
 
 
@@ -19,8 +19,9 @@ In the Calculate and Post VAT Settlement functionality, the posted document numb
 
 ## See Also
 
+[Core Localization Pack for Czech](ui-extensions-core-localization-pack-cz.md)  
 [Czech local functionality](czech-local-functionality.md)  
 [VAT control report](how-to-create-vat-control-report.md)  
-[VAT date](how-to-setup-vat-date.md)
-[VAT statement](vat-statement.md)
-[Finance](../../finance.md)
+[VAT date](how-to-setup-vat-date.md)  
+[VAT statement](vat-statement.md)  
+[Finance](../../finance.md)  
