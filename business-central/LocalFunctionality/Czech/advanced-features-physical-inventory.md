@@ -1,14 +1,14 @@
 ---
-title: Czech Local Functionality - Advances features of physical inventory | Microsoft Docs
+title: Czech Local Functionality - Advances features of physical inventory 
 description: Companies need to distinguish the posting of inventory movements of the same goods so they require line-break of physical inventory Journal line.
 author: v-makune
 
 ms-service: dynamics365-business-central
-ms.topic: conceptual
-ms.search.keywords: CZ, Czech, Advance payment, Advance invoices, Payables, Finance,  Cash, EET, Cash Desk
-ms.date: 12/30/2019
-ms.reviewer: v-makune
-ms.author: v-makune
+ms.topic: article
+ms.search.keywords: Czech, Inventory, Localization, CZ
+ms.date: 12/01/2020
+ms.reviewer: v-pejano
+ms.author: v-pejano
 ---
 
 
@@ -19,5 +19,5 @@ Companies need to distinguish the posting of inventory movements of the same goo
 
 ## See also
 
+[Core Localization Pack for Czech](ui-extensions-core-localization-pack-cz.md)  
 [Czech local functionality](czech-local-functionality.md)  
-[Finance](../../finance.md)
