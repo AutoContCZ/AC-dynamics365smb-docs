@@ -26,7 +26,7 @@ The following topics describe the local functionality in the Czech version of [!
   * [Unreliable Payer](unreliable-payer.md) **Available Now** 
   * [Reverse Charge - setup and posting](how-to-setup-and-posting-reverse-charge.md) **Available Now** 
   * [VAT Control Report](how-to-create-vat-control-report.md) **Available Now** 
-  * [VAT Reports](czech-vat-reports.md) **Available Now** 
+  * [VAT Reports](vat-reports-cz.md) **Available Now** 
   * [Exchange Rate Updating](how-to-update-exchange-rate.md) **Available Now** 
   * [G/L Account Group – Multi-circuit Accounting ](how-to-use-multi-circuit-accounting.md) **Available Now** 
   * [Check of Posting Group changing – Customer, Vendor, item, bank account](check-of-posting-group-changing.md) **Available Now** 
