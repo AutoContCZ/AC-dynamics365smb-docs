@@ -1,12 +1,12 @@
 ---
-title: Czech Local Functionality - Customers/Vendors Reconciliations | Microsoft Docs
+title: Czech Local Functionality - Customers/Vendors Reconciliations 
 description: This functionality allows you to create of a report on the reconciliation of receivables and payables.
 author: v-pejano
 
 ms-service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: Czech, Finance, Localization, CZ
-ms.date: 10/01/2020
+ms.date: 12/01/2020
 ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
@@ -15,6 +15,7 @@ ms.author: v-pejano
 
 At the end of each fiscal year (or another period, when requested), companies send a statement of balances to Customers and Vendors in order to reconcile them with Customer and Vendor records. Customers and Vendors either confirm the statement or not and send it back with corrections, based on their own information. This feature allows users to prepare such report in [!INCLUDE[d365fin](../../includes/d365fin_md.md)].
 
-## See also
+## See Also
 
-[Czech Local Functionality](czech-local-functionality.md)
+[Core Localization Pack for Czech](ui-extensions-core-localization-pack-cz.md)  
+[Czech Local Functionality](czech-local-functionality.md)  
