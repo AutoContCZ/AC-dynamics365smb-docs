@@ -6,30 +6,33 @@ author: v-pejano
 ms-service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: Czech, Finance, Localization, CZ
-ms.date: 10/01/2020
+ms.date: 12/01/2020
 ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
 
-# Rozšířené uživatelské kontroly
+# Extended User Control
 
-Tato funkcionalita umožňuje nastavit pomocí Nastavení uživatelů v kombinaci s novými Řádky nastavení uživatelů následující údaje a kontroly:
-- Přiřadit uživatele k číslu zaměstnance
-- Nastavit filtr centra odpovědnosti hotovosti pro pokladní operace
-- Kontrolovat data dokladu při účtování proti pracovnímu nebo systémovému datu
-- Kontrolovat zúčtovací datum při účtování proti pracovnímu nebo systémovému datu
-- Kontrolovat přístup k platebním příkazům – zkontrolovat povolené Bankovní účty pro platební příkazy (nastaveno v řádcích)
-- Kontrolovat přístup k bankovním výpisům – zkontrolovat povolené Bankovní účty pro bankovní výpisy (nastaveno v řádcích)
-- Kontrolovat bankovní účty povolené pro účtování(nastaveno v řádcích)
-- Kontrolovat přístup k šablonám deníku – zkontrolovat povolené šablony pro všechny druhy deníků (nastaveno v řádcích)
-- Kontrolovat hodnoty dimenzí povolené pro účtování (nastaveno v řádcích)
-- Kontrolovat skladové lokace povolené pro účtování zvlášť pro zvýšení množství a snížení množství (nastaveno v řádcích)
-- Kontrolovat skladové lokace povolené pro vydání zvlášť pro zvýšení množství a snížení množství (nastaveno v řádcích)
-- Kontrolovat použití šablon skladového pohybu při účtování v deníku zboží
-- Povolit účtování do uzavřeného období
-- Povolit dokončení projektu
-- Povolit storno vyrovnání zboží
+This feature in User Setup in combination with new User Setup Lines table allows setting and providing the following control:
 
-## Viz Také
+- Assigning user to Employee No.
+- Set Cash Resp. Ctr. Filter for Cash desk operations
+- Check Document Date at posting against work date or system date
+- Check Posting Date at posting against work date or system date
+- Check access to Payment Orders – checks allowed Bank Accounts for payment orders (set in lines)
+- Check access to Bank Statements – checks allowed Bank Accounts for bank statements (set in lines)
+- Check Bank Accounts allowed for posting (set in lines)
+- Check access to Journal Templates – check allowed Journal Templates for all Journal types (set in lines)
+- Check Dimension Values allowed for posting (set in lines)
+- Check Location Code allowed for posting separately for quantity increase and quantity decrease (set in lines)
+- Check Location Code allowed for document release separately for quantity increase and quantity decrease (set in lines)
+- Check the usage of Whse. Net Change Templates at posting in Item Journals
+- Allow Posting to Closed Period
+- Allow Complete Job
+- Allow Item Unapply functionality
 
-[Czech Local Functionality](czech-local-functionality.md)
+
+## See Also
+
+[Core Localization Pack for Czech](ui-extensions-core-localization-pack-cz.md)  
+[Czech Local Functionality](czech-local-functionality.md)  
