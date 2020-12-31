@@ -46,7 +46,7 @@ The following topics describe the local functionality in the Czech version of [!
   * [Inventory](inventory.md) **Available Now**
 
 * General
-  * [Extended User Control](general.md) **Available Now**
+  * [General](general.md) **Available Now**
   * [Best Practices](best-practices.md) **Available Now**
   * [Core Localization Pack for Czech (Extension)](ui-extensions-core-localization-pack-cz.md)  
 
