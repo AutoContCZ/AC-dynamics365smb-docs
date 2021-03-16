@@ -6,7 +6,7 @@ author: v-pejano
 ms-service: dynamics365-business-central
 ms.topic: article
 ms.search.keywords: Czech, Finance, Localization, CZ
-ms.date: 31/03/2021
+ms.date: 03/01/2021
 ms.reviewer: v-pejano
 ms.author: v-pejano
 ---
@@ -17,4 +17,4 @@ The Rounding Account in the Inventory feature enables you to post all rounded co
 ## See also
 
 [Advanced Localization Pack for Czech](ui-extensions-advanced-localization-pack-cz.md)  
-[Czech Local Functionality](czech-local-functionality.md)
+[Czech Local Functionality](czech-local-functionality.md)  
